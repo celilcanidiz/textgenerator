@@ -1,0 +1,48 @@
+.ContentSection{
+    min-height: 20rem;
+    background-color: #303030;
+    margin-top: 2rem;
+    border-radius: .5rem;
+    padding: 2rem;
+    line-height: 1.5rem;
+    font-size: 1rem;
+}
+
+.ContentDiv2{
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+    align-items: center;
+}
+
+.Input{
+    border-radius: .2rem;
+    width: 50%;
+    padding: .4rem 0;
+    border:none;
+    font-size: .9rem;
+    font-weight: 500;
+    text-indent: .5rem;
+}
+
+.InputGroup{
+display:flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+}
+
+.Label{
+font-size: 1rem;
+margin-right: .5rem;
+}
+
+.SelectBox{
+    border-radius: .2rem;
+    width: 50%;
+    padding: .4rem 0;
+    border:none;
+    font-size: .9rem;
+    font-weight: 500;
+    text-indent: .5rem;
+}

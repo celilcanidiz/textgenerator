@@ -1,0 +1,16 @@
+.HeaderSection{
+    padding: 2rem 1rem ;
+    margin-bottom: .5rem;
+}
+
+.ContentDiv{
+    display: flex;
+    justify-content:"space-between";
+    align-items: center;
+    flex-flow: column;
+}
+
+.hr{
+    margin: 1rem 0;
+}
+

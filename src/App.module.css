@@ -1,0 +1,18 @@
+.App{
+    max-width: 1024px;
+  width: 100%;
+  margin: 0 auto;
+  height: 100vh;
+}
+
+body{
+    font-size: 	62.5%;
+    font-family: 'Inconsolata', monospace;
+    background-color: #222222 !important;
+    color:white !important;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
